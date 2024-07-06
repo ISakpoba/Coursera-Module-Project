@@ -1,2 +1,2 @@
 # Coursera-Module-Project
-Analyzing Historical Stock/Revenue Data and Building a Dashboard
+This project is Analyzing Historical Stock/Revenue Data and Building a Dashboard
